@@ -18,7 +18,7 @@ $ tmux list-sessions
 ##### session attach
 ```
 $ tmux attach
-$ tmux a`
+$ tmux a
 $ tmux attach -t heyjin
 ```
 
