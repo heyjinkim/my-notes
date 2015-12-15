@@ -13,6 +13,6 @@ http://scikit-learn.org/stable
 
 #### ETC
 - Training -> (Testing) -> Production
-- Deep learning
+- Deep learning & Neural Network
 - MapReduce
 - Spark: wrapper of MapReduce?
